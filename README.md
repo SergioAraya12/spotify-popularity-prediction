@@ -122,7 +122,9 @@ jupyter notebook
 ## Author
 
 Sergio Araya
+
 MSc Artificial Intelligence and Data Science
+
 Keele University
 
 ## License
